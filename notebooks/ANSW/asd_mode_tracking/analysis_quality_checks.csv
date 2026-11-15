@@ -1,0 +1,9 @@
+T,model,n_replicas_old,max_relative_energy_drift,has_replica_profiles,n_replicas_new
+0.1,DMI-x,4,2.2687437380160452e-05,True,16
+0.1,Frustration,4,6.676304969359698e-06,True,16
+0.3,DMI-x,4,4.998392960434325e-05,True,16
+0.3,Frustration,4,1.3927282604345311e-05,True,16
+0.5,DMI-x,4,6.128549881183515e-05,True,16
+0.5,Frustration,4,1.5554015054884064e-05,True,16
+1.0,DMI-x,4,4.561221097647008e-05,True,16
+1.0,Frustration,4,1.4231853562968727e-05,True,16
