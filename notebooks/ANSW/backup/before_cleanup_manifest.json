@@ -1,0 +1,572 @@
+[
+  {
+    "path": "ASD_2D_MultiTemperature_RTX4080_Clean.ipynb",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "ASD_Spectral_Analysis_Clean.ipynb",
+    "size": 439962,
+    "sha256": "aeb7f1ba161d025582afb5c74516b53577a3ab077039a9b6acd951d0563d94d6"
+  },
+  {
+    "path": "DMI_x_Matched_Spiral_Calibration_Clean.ipynb",
+    "size": 177034,
+    "sha256": "18fbd33fa2f2fede1184d20dba8fec193dc52edb4d6fc92aa9a8410ad22db021"
+  },
+  {
+    "path": "Disentangling Exchange Frustration and Dzyaloshinskii\u2013Moriya Interactions through Finite-Temperature Magnon Spectra copy.ipynb",
+    "size": 531094,
+    "sha256": "e6ae3f2d749ea8dd6f4ef14a40162b69c95760f9c8b2d16ab7f715c9062f6f54"
+  },
+  {
+    "path": "Disentangling Exchange Frustration and Dzyaloshinskii\u2013Moriya Interactions through Finite-Temperature Magnon Spectra.ipynb",
+    "size": 553706,
+    "sha256": "468b35bf8db53eb69cf38c625da263675abc1058350f7ed0779d6628e1f557be"
+  },
+  {
+    "path": "Disentangling Exchange Frustration and Dzyaloshinskii\u2013Moriya Interactions through Finite-Temperature Magnon Spectra_New.ipynb",
+    "size": 1002770,
+    "sha256": "e2da3f60646cb8ccc1dace7e1a5605f059f19e243b317001a58a53e08fdd5161"
+  },
+  {
+    "path": "Download ASD_2D_RTX4080_DMIx_Frustration_Clean.ipynb",
+    "size": 296217,
+    "sha256": "b54c6337c650b05e49d9af9ee4782094643d32ac6eb430245cba92974a9ed08b"
+  },
+  {
+    "path": "LSWT_2D_Full_Lattice_Clean.ipynb",
+    "size": 319429,
+    "sha256": "e65078e77344b6bef929ca54dee5f8d16c2196642dadceb0536042fe54b8ea06"
+  },
+  {
+    "path": "LSWT_3D_Full_Lattice_Clean.ipynb",
+    "size": 806694,
+    "sha256": "92afe1e6558d83addd35c7580985055b5da0d69fabf86b3ac1c50f99e944eb13"
+  },
+  {
+    "path": "MC_Targeted_Temperatures_DMIx_Frustration_Clean.ipynb",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "OUTPUT_1M/c_vs_t.png",
+    "size": 32077,
+    "sha256": "9de9da93566edda753cae7c0f24aa8fcc10102c9a2d362d14d890aca4d86c7bc"
+  },
+  {
+    "path": "OUTPUT_1M/e_vs_t.png",
+    "size": 21362,
+    "sha256": "f960f0579ad6bcd6762957ce376e77783946aceb7cda0b310485dcfccb26f197"
+  },
+  {
+    "path": "OUTPUT_1M/kai_vs_t.png",
+    "size": 24492,
+    "sha256": "720ad30e1ca4f9db3e38fb18eabf0aef3dc2c07c6cfa5e28254735bc8ceeccaa"
+  },
+  {
+    "path": "OUTPUT_1M/m_vs_t.png",
+    "size": 24977,
+    "sha256": "060b4661843d196c73cb8d75734f51aea9886c556db5c460ec58016fc59cfdb3"
+  },
+  {
+    "path": "OUTPUT_1M/simulation_results.csv",
+    "size": 23531,
+    "sha256": "4e8469911e6207195b144aede6b6daf33b677393f77adeb3fc75780b5f42380a"
+  },
+  {
+    "path": "asd_2d_results/asd_constant_energy_maps.pdf",
+    "size": 145558,
+    "sha256": "b7df5be61d787c2ed18543410d1e89f76ee15387e52a25923610b0ae8fca463c"
+  },
+  {
+    "path": "asd_2d_results/asd_constant_energy_maps.png",
+    "size": 130772,
+    "sha256": "253b4516af28a966bcaa2ace2300e5a6a65d7475bd300aa1ac8b0c96bb10f6ea"
+  },
+  {
+    "path": "asd_2d_results/asd_dynamical_structure_factor_T0p1.npz",
+    "size": 7668096,
+    "sha256": "4236d7e89a0160e7d07962e063a13ffb59c8a333911007ad0ba3397b4d3b8935"
+  },
+  {
+    "path": "asd_2d_results/asd_energy_conservation.pdf",
+    "size": 16615,
+    "sha256": "1518e0e59e92ac3cfccd36abe782e6642497d3d9540c4afedfae7d8905d5fa95"
+  },
+  {
+    "path": "asd_2d_results/asd_energy_conservation.png",
+    "size": 133512,
+    "sha256": "c48339be7bb27739d710cf3538e2f96eb9000bd02ab5bafb22d457d704e06eba"
+  },
+  {
+    "path": "asd_2d_results/asd_spectra_qx_ky_slices.pdf",
+    "size": 1235643,
+    "sha256": "8aa6a8d28a31ccda74947495ba0cc354b341564ce5fbe89d4e195c9e6642da43"
+  },
+  {
+    "path": "asd_2d_results/asd_spectra_qx_ky_slices.png",
+    "size": 255053,
+    "sha256": "09417b98295a39084be08ff540233930b7d1a3467d9db1750e1f15306d2763da"
+  },
+  {
+    "path": "asd_finite_temperature/asd_dynamical_structure_factor_T0p3.npz",
+    "size": 7637966,
+    "sha256": "31b28ac306d388985e3446f34e0ae24ce05b024db728140b94ddb3e75153ea02"
+  },
+  {
+    "path": "asd_finite_temperature/asd_dynamical_structure_factor_T0p5.npz",
+    "size": 7606903,
+    "sha256": "a1f83d73317a2bfb3b5f4c2b3926f785d9f0fb70600b9789b073dc405b655ac7"
+  },
+  {
+    "path": "asd_finite_temperature/asd_dynamical_structure_factor_T1p0.npz",
+    "size": 7549380,
+    "sha256": "6427979b71af648edfd771608080b9130f7da4543af13e968d1a2be4ec5fea1d"
+  },
+  {
+    "path": "asd_finite_temperature/finiteT_asd_peak_profiles.pdf",
+    "size": 19314,
+    "sha256": "2b4b9a3b76b4b772e7e7525c5b67322e92ab1a4506c640152d8fc3cb4915bb00"
+  },
+  {
+    "path": "asd_finite_temperature/finiteT_asd_peak_profiles.png",
+    "size": 263426,
+    "sha256": "778fbacbdac8703e3fb8ed2524d4e13a00f881f726632f24a860f330685089e0"
+  },
+  {
+    "path": "asd_finite_temperature/finiteT_asd_qy0_comparison.pdf",
+    "size": 1611226,
+    "sha256": "3c9184c551ac59868b61226c37db6bc2620c7cef0b591addbc65e21ce6d88248"
+  },
+  {
+    "path": "asd_finite_temperature/finiteT_asd_qy0_comparison.png",
+    "size": 235994,
+    "sha256": "2491f8e464002a150b68416a85058291e44c776bcaae54d0dc71b26b8bc274fb"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_analysis_summary.npz",
+    "size": 44169,
+    "sha256": "7ace53b00610f989f8d2e932ceb4edb62e93cd486a31551faf3ecf9f2a6453c3"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_integrated_intensity_asymmetry.pdf",
+    "size": 163389,
+    "sha256": "b147b59e25a63a1bb347e122e3758a3b9028a96d8aaf936ad9103c914a0115db"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_integrated_intensity_asymmetry.png",
+    "size": 178181,
+    "sha256": "bfb613045baac3d5e1058bd89e13fdd4e79eb01debf95c5e8d36ccbb45705a02"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_lswt_labframe_overlay.pdf",
+    "size": 846000,
+    "sha256": "c6ebbb86d228b04270d2b71f9f0544d643f78811b683c0c7d576502f9d1133f3"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_lswt_labframe_overlay.png",
+    "size": 599466,
+    "sha256": "150a74c7471562cb4bb393adc33e3db36905fc802e03b24be69028c99bfd596a"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_peak_profiles.pdf",
+    "size": 23706,
+    "sha256": "d7b22fec59f748fcfc59cfcefbe55aae8adb4c11754daa3013e30617e5e80b01"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_peak_profiles.png",
+    "size": 308362,
+    "sha256": "8c605a264d1065516723c30e8fee30bbd672784bc9171d9471406ee91521a125"
+  },
+  {
+    "path": "asd_spectral_analysis/asd_peak_table.csv",
+    "size": 1299,
+    "sha256": "1da5e81f7e34f2aa826401d2e68f79f5d177dd3171c99b0f5751160c73a7516c"
+  },
+  {
+    "path": "calibration_dmi_x/progress_dmi.npz",
+    "size": 2792,
+    "sha256": "f42a0e7dee4bae0c734f397a380556818620409b875b0b455dbd64e1ed83ebf1"
+  },
+  {
+    "path": "calibration_dmi_x/spins_dmi_latest.npy",
+    "size": 1572992,
+    "sha256": "691e7a554772baefe2597085e00da33a80abf51ad5ba3f1d8cb04b6702c8d11b"
+  },
+  {
+    "path": "lswt.ipynb",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "lswt_2d_results/lswt_2d_cuts.pdf",
+    "size": 23968,
+    "sha256": "4cd5c459d55bf1bb51bef6c3f287d88845256902b4f2712d36b067922fa4a90c"
+  },
+  {
+    "path": "lswt_2d_results/lswt_2d_cuts.png",
+    "size": 306431,
+    "sha256": "e07dab349f69329568e590ffd15831c1c012cfcad900fe49b0717fee7df4c607"
+  },
+  {
+    "path": "lswt_2d_results/lswt_2d_heatmaps.pdf",
+    "size": 160450,
+    "sha256": "e19752e6c2e1bd0ef612e29eeb1cea3bafec55191029fc2fb3c9c3fe2067e99b"
+  },
+  {
+    "path": "lswt_2d_results/lswt_2d_heatmaps.png",
+    "size": 162245,
+    "sha256": "881b923e0ede5a076628eae32eb7e81d66dc74bfb40b0a3be2350082214784fb"
+  },
+  {
+    "path": "lswt_2d_results/spin_dynamics_2d_validation.pdf",
+    "size": 29326,
+    "sha256": "e345190df4018f2e39f7f0a383e2cf0f5c82716409714e774880f29ec3e4d764"
+  },
+  {
+    "path": "lswt_2d_results/spin_dynamics_2d_validation.png",
+    "size": 582765,
+    "sha256": "41c185dbe5ff0cc3dd0a8ec84248fdc99f64fbe97d2d30cd035b602851dcb4b4"
+  },
+  {
+    "path": "lswt_3d_results/lswt_3d_data.npz",
+    "size": 1011040,
+    "sha256": "a90fbd08c74df049a898bd85ee23e55c3246430039528a8342e4b243b47a6cf7"
+  },
+  {
+    "path": "lswt_3d_results/lswt_3d_isoenergy.pdf",
+    "size": 1153539,
+    "sha256": "1eb24f44896bdef7c399d212c87ec9be25af8b3d976ebd687d0eebfccbc356de"
+  },
+  {
+    "path": "lswt_3d_results/lswt_3d_isoenergy.png",
+    "size": 1503294,
+    "sha256": "7863eb7b4d088ca849322767ca3f0984ae16617c9e8b40d3280bca58325e5257"
+  },
+  {
+    "path": "lswt_3d_results/lswt_3d_kz_slices.pdf",
+    "size": 286571,
+    "sha256": "b105671033d259002ac9470ae5c4a13898e436210497d98a90fc30159eb02e43"
+  },
+  {
+    "path": "lswt_3d_results/lswt_3d_kz_slices.png",
+    "size": 233074,
+    "sha256": "d5356ee0c2378812cbe988d5b18fdec740538d265673293c13528fdaed171e34"
+  },
+  {
+    "path": "lswt_3d_results/lswt_3d_paths.pdf",
+    "size": 26205,
+    "sha256": "3afa720a888f2f20f48db0cbfb3534298434439105d8c323a8dd82044483e699"
+  },
+  {
+    "path": "lswt_3d_results/lswt_3d_paths.png",
+    "size": 282121,
+    "sha256": "9faddfa1efc7ab7c3b87ebf847c0f35b454bc051da45a5b30ce3a4a1ef0aaf5e"
+  },
+  {
+    "path": "lswt_3d_results/spin_dynamics_3d_validation.pdf",
+    "size": 29943,
+    "sha256": "5adeb421a99d7e5f273558586cecb2af786299d3a8845ed8e99ba35ce916c717"
+  },
+  {
+    "path": "lswt_3d_results/spin_dynamics_3d_validation.png",
+    "size": 527018,
+    "sha256": "115c55bfd8dd966889b3f69373e93e03c19d9fa45b1671f8e0320204ccfe3e76"
+  },
+  {
+    "path": "lswt_3d_results/spiral_3d_lattice.pdf",
+    "size": 21276,
+    "sha256": "e4bde56a9308bbf687c5c2b0f0733208fbae2d2d1260d7e67abbd114722dacb9"
+  },
+  {
+    "path": "lswt_3d_results/spiral_3d_lattice.png",
+    "size": 467786,
+    "sha256": "81c7f412135e8057f083b8331a5584261e1ebdabe3531ad653fe89ac3b8d5d29"
+  },
+  {
+    "path": "lswt_validation/lswt_numerical_validation.pdf",
+    "size": 19239,
+    "sha256": "d64f98fd72020505ab0e52693e28d02ba1da945f20a6a19cd41b634aa9904f88"
+  },
+  {
+    "path": "lswt_validation/lswt_numerical_validation.png",
+    "size": 239874,
+    "sha256": "e261322c013a4aa31b79bb0639532c928d57211e6120ab1e46ce6426b74e1c65"
+  },
+  {
+    "path": "lswt_validation/lswt_validation_data.npz",
+    "size": 152906,
+    "sha256": "e08372443d1448e58f6892a28327f8a41ee43b5a023671382fcb18112b559999"
+  },
+  {
+    "path": "lswt_validation/spin_dynamics_frequency_check.pdf",
+    "size": 24817,
+    "sha256": "00cec370adf3664455baded094bd1dba43ffac7fd38874d7183673076572993f"
+  },
+  {
+    "path": "lswt_validation/spin_dynamics_frequency_check.png",
+    "size": 485219,
+    "sha256": "44f0a9237ebefc786d72cba961c95b03424f063cc9a0dfcc52c02df672e3673a"
+  },
+  {
+    "path": "mc_temperature_snapshots/mc_checks_dmi_T0p3.npz",
+    "size": 6387,
+    "sha256": "6339aafc9e175be27ec9eb834e0c0fbed704e8b0241807b343a1f0f7178bcca6"
+  },
+  {
+    "path": "mc_temperature_snapshots/mc_checks_dmi_T0p5.npz",
+    "size": 6412,
+    "sha256": "8cc2dd0f6ae5ce01b8ed65485faae493e1b8f0940df37b6c5353030ebed3c035"
+  },
+  {
+    "path": "mc_temperature_snapshots/mc_checks_dmi_T1p0.npz",
+    "size": 6455,
+    "sha256": "4b03f66b7246c36d813a1531b1b00f2a2a501d8a3401fb3d35b59d714d083f92"
+  },
+  {
+    "path": "mc_temperature_snapshots/mc_checks_frustration_T0p3.npz",
+    "size": 6466,
+    "sha256": "28858a074b473c8a8ff531d546c271f2527a25b9976004f4be41546b7ff696dc"
+  },
+  {
+    "path": "mc_temperature_snapshots/mc_checks_frustration_T0p5.npz",
+    "size": 6452,
+    "sha256": "22a4c488f0d101960de1951f94a56e75b56969d56e184151c9916bcf95ef862d"
+  },
+  {
+    "path": "mc_temperature_snapshots/mc_checks_frustration_T1p0.npz",
+    "size": 6439,
+    "sha256": "38247082da6f8f5e6bb886381ff6d280d4e3168e741b874c905ed239edd10c45"
+  },
+  {
+    "path": "mc_temperature_snapshots/mc_snapshot_energy_checks.png",
+    "size": 117685,
+    "sha256": "bb0d052c09c4e7048938cc5a10f84fab565732b3d59ea10069fc0547bf9f308e"
+  },
+  {
+    "path": "mc_temperature_snapshots/spins_dmi_T0p3.npy",
+    "size": 6291584,
+    "sha256": "9169d4ac08f53873a1b303b909e65ade63675379bb0edb4ad5c5871a2c17ea2f"
+  },
+  {
+    "path": "mc_temperature_snapshots/spins_dmi_T0p5.npy",
+    "size": 6291584,
+    "sha256": "e3e33d29d53804ba2df91de69a808b8c6cf30e194cfd6188b6c30ec64a7c6ea9"
+  },
+  {
+    "path": "mc_temperature_snapshots/spins_dmi_T1p0.npy",
+    "size": 6291584,
+    "sha256": "88750696ddb216d4207b1aeb9ea918da0c766246f1f91b47ed0f80f26a52a33d"
+  },
+  {
+    "path": "mc_temperature_snapshots/spins_frustration_T0p3.npy",
+    "size": 6291584,
+    "sha256": "16dddc66b289baf282fa4653698194fefb7f464949b03a7a6cfb01ae992a41fd"
+  },
+  {
+    "path": "mc_temperature_snapshots/spins_frustration_T0p5.npy",
+    "size": 6291584,
+    "sha256": "d52e21685fda6ea1de9a03ed93a0b258ec928f0fef1a8dcf35a725d2b7aff5c9"
+  },
+  {
+    "path": "mc_temperature_snapshots/spins_frustration_T1p0.npy",
+    "size": 6291584,
+    "sha256": "bf93a4bbfeb8d415763df0a857866fc845906f54810683569f8b1bd97abdfb84"
+  },
+  {
+    "path": "output/c_vs_t.png",
+    "size": 25258,
+    "sha256": "5ad4e8c431a67f02b8450bb38d97562f1d0d7e5a94420f47714d472a73b418d6"
+  },
+  {
+    "path": "output/e_vs_t.png",
+    "size": 21487,
+    "sha256": "02f653a6c133d0a1639d99d4205006af5363b917340a175ca7b5bbb7f29fc651"
+  },
+  {
+    "path": "output/kai_vs_t.png",
+    "size": 24144,
+    "sha256": "e9a1487dd5c3ada97e0450c9f81de56c0eae8a523e07efe580636521b3daa561"
+  },
+  {
+    "path": "output/m_vs_t.png",
+    "size": 25399,
+    "sha256": "fafcb8f58bab162b5664f5dc287bfc4bbe73bea3733cd762ddf6778b07dce71b"
+  },
+  {
+    "path": "output/simulation_results.csv",
+    "size": 23498,
+    "sha256": "028d5d50af14b082dcc610a05d14eb321696cadde6ee1d8bfabc0a0893602756"
+  },
+  {
+    "path": "paper_figures/acceptance_rate.pdf",
+    "size": 19955,
+    "sha256": "1c518709fafdb01dab2a1e9b24016dbe9626657fe6ad036c6b2005f0bfa77070"
+  },
+  {
+    "path": "paper_figures/acceptance_rate.png",
+    "size": 212238,
+    "sha256": "477a332c0a826a6f5aa2c0661210dbb0ea9df441061ba843f79b973dd3035a80"
+  },
+  {
+    "path": "paper_figures/acceptance_rate.svg",
+    "size": 35552,
+    "sha256": "b5c4dfbdc2f5b8705c981e54c9dc48e90481ca323008cb90a7289d707595a1d0"
+  },
+  {
+    "path": "paper_figures/energy.pdf",
+    "size": 19521,
+    "sha256": "1000383db04b69ca86012b26579ad42a6605932b9f13e7a380698b50e17c4ab5"
+  },
+  {
+    "path": "paper_figures/energy.png",
+    "size": 205751,
+    "sha256": "0030a1d1306825dc8f5232e827b67fed27f35f5e76a7c47f74a4f4411f0adf36"
+  },
+  {
+    "path": "paper_figures/energy.svg",
+    "size": 32134,
+    "sha256": "3cfd29245d75a4268d8d0fa2dff7eee95e1af5f36db027249f6045a775d14f78"
+  },
+  {
+    "path": "paper_figures/heat_capacity.pdf",
+    "size": 19805,
+    "sha256": "531f3a163fa1328716670fbccdbb7b751b415c4ea9d2e38296e7e76aa97767da"
+  },
+  {
+    "path": "paper_figures/heat_capacity.png",
+    "size": 257688,
+    "sha256": "20c22a8f64d81731939c95bcea2d34bc013fbfb9bf464a9cae44d6361d11db36"
+  },
+  {
+    "path": "paper_figures/heat_capacity.svg",
+    "size": 36318,
+    "sha256": "d72f57746d9f892edb9b2f1a61a3d6fa1294d04a5ed913eb0f99fd0e78ebc927"
+  },
+  {
+    "path": "paper_figures/magnetization.pdf",
+    "size": 21623,
+    "sha256": "8b9169cf5fce974f07fd9552d9e25db3eebf811b2e02b492c82b179881fcc601"
+  },
+  {
+    "path": "paper_figures/magnetization.png",
+    "size": 218105,
+    "sha256": "1382311f924a0a9f363f32960668e43a68554414fec7fd6249e5e8e2d4d55b8f"
+  },
+  {
+    "path": "paper_figures/magnetization.svg",
+    "size": 32847,
+    "sha256": "13a437d9ff93e2333684aced3f1d99519bb832fb40a49aee1480bab926e17e9a"
+  },
+  {
+    "path": "paper_figures/sigma.pdf",
+    "size": 18361,
+    "sha256": "2b1c8946baeb819f33272010b6f1e8c61f1d87c964daff6b7bd75b902cb40640"
+  },
+  {
+    "path": "paper_figures/sigma.png",
+    "size": 202712,
+    "sha256": "aeecfb9e6c233cc2b74c8dc7460a938367de65a9ef3e50c6dfaa0625145edba5"
+  },
+  {
+    "path": "paper_figures/sigma.svg",
+    "size": 35369,
+    "sha256": "0587ba5a821a40666e980f1cf587ca7493a0300f283c6380d1e2c2d578dc194c"
+  },
+  {
+    "path": "paper_figures/susceptibility.pdf",
+    "size": 21972,
+    "sha256": "64e61ca47d188af2f8eeef76cfa48fdf73e84dd454cf34e10c51ea78b812ebab"
+  },
+  {
+    "path": "paper_figures/susceptibility.png",
+    "size": 252992,
+    "sha256": "e2f7ab7d27b9b615158f77f85500742ac1758d5f091785747b4b94dd249856cd"
+  },
+  {
+    "path": "paper_figures/susceptibility.svg",
+    "size": 45915,
+    "sha256": "155b5adedb678609cc7666c975a8126b08260363a5c9f4226e61349134bc054c"
+  },
+  {
+    "path": "paper_figures/thermodynamics_4panel.pdf",
+    "size": 39786,
+    "sha256": "7bcd2b2a73fcd63ba335e201fedbe4cf856813b8155efcab415431acd95c5a2a"
+  },
+  {
+    "path": "paper_figures/thermodynamics_4panel.png",
+    "size": 672103,
+    "sha256": "53a17a77f0365ee867fb73b5dca4c9d2a086a8e7ee0ac9c6a701fbb9a10bebb9"
+  },
+  {
+    "path": "paper_figures/thermodynamics_4panel.svg",
+    "size": 132015,
+    "sha256": "b110426c07e5269b2330dccbda2f2265545cb1c66eeedd6502e2d162648ca394"
+  },
+  {
+    "path": "production_dmi_x/progress_dmi.npz",
+    "size": 7272,
+    "sha256": "49184e593bd42405fad802422342941960014a0a18e34df8769eca64a116f31f"
+  },
+  {
+    "path": "production_dmi_x/spins_dmi_latest.npy",
+    "size": 1572992,
+    "sha256": "9b610ddcd445d15f1d44ad441dc87e4fd81f80db41ed529a3af1057fb21ce30e"
+  },
+  {
+    "path": "progress_dmi.npz",
+    "size": 7272,
+    "sha256": "485442d4e861b7a46de291136700857fa3d66937f9d740f70859d41f02e67512"
+  },
+  {
+    "path": "progress_frustration.npz",
+    "size": 7272,
+    "sha256": "58134948c9eeddcf6ca82bed7d957ad0ae84c3923a5adace6de610561e499842"
+  },
+  {
+    "path": "simulation_results.csv",
+    "size": 23584,
+    "sha256": "d834c4dccf6705c079fb3bfa2d9f15e2a2c650fa50ddafa831fd636c5248a992"
+  },
+  {
+    "path": "spins_dmi_latest.npy",
+    "size": 1572992,
+    "sha256": "50c8293fb77babd641184db9dd30c283fa819f7f2c542187d3cb990f793dae08"
+  },
+  {
+    "path": "spins_frustration_latest.npy",
+    "size": 1572992,
+    "sha256": "a1f124460461793dd5b59c48b959dc669423e336119739842857321fb6e816ba"
+  },
+  {
+    "path": "susceptibility.pdf",
+    "size": 22184,
+    "sha256": "36ab0da6fafe5c51430b40292e8e97ee0e21c197b3c989f0f970840d639c54ec"
+  },
+  {
+    "path": "susceptibility.png",
+    "size": 251624,
+    "sha256": "0525059c0765d9edb9767cbe5ea565543c60380b8779279bdd5ff1b59590e22c"
+  },
+  {
+    "path": "susceptibility.svg",
+    "size": 47476,
+    "sha256": "54f120917e5608693fe31033855d8b466ac4ad49639c10cf6fce5e25fd40f7de"
+  },
+  {
+    "path": "susceptibility_paper.pdf",
+    "size": 25830,
+    "sha256": "076bd392a85f7288fa4c195d872f792fa53c0bf839a16a40033b7d58c80c4995"
+  },
+  {
+    "path": "susceptibility_paper.png",
+    "size": 288719,
+    "sha256": "198ab4bd6bed268368a2a8a50511161c17cc29bf691a2b7f226171ed20d2aec7"
+  },
+  {
+    "path": "susceptibility_paper.svg",
+    "size": 85714,
+    "sha256": "17975c12820998863d3b0cbee3af01d5b040ff37fc59a6545ef8942052622159"
+  }
+]
