@@ -1,0 +1,3 @@
+Ax = (Y)*((λR^2 + λD^2 - ti^2)*(sx[r,n]+sx[l,n]+sx[m,t]+sx[m,b])-2*ti*(λR*(-sz[r,n]+sz[l,n])+ λD*(-sz[m,t]+sz[m,b]))-2*(λR^2)*(sx[m,t]+sx[m,b])-2*(λD^2)*(sx[r,n]+sx[l,n])-λR*λD*(sy[r,n]+sy[l,n]+sy[m,t]+sy[m,b]))
+Ay = (Y)*((λR^2 + λD^2 - ti^2)*(sy[r,n]+sy[l,n]+sy[m,t]+sy[m,b])-2*ti*(λR*(-sz[m,t]+sz[m,b])+ λD*(sz[r,n]-sz[l,n]))-2*(λR^2)*(sy[r,n]+sy[l,n])-2*(λD^2)*(sy[m,t]+sy[m,b])-λR*λD*(sx[r,n]+sx[l,n]+sx[m,t]+sx[m,b]))
+Az = (Y)*((λR^2 + λD^2 - ti^2)*(sz[r,n]+sz[l,n]+sz[m,t]+sz[m,b])-2*ti*(λR*(sx[r,n]-sx[l,n]+sy[m,t]-sy[m,b])+λD*(-sy[r,n]+sy[l,n]+sx[m,t]-sx[m,b]))) + B
